@@ -1,6 +1,6 @@
 {
 	"name": "react-native-floating-text-input",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"keywords": [
 		"floating text field",
 		"floating text input",
@@ -9,6 +9,10 @@
 		"react native floating text input",
 		"react native material text input"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dayitv89/react-native-floating-text-input"
+	},
 	"main": "./src/index.js",
 	"files": [
 		"/src"
