@@ -1,7 +1,14 @@
 {
 	"name": "FloatingTextInput",
 	"version": "1.0.0",
-	"private": true,
+	"keywords": [
+		"floating text field",
+		"floating text input",
+		"floating textInput",
+		"react native floating textInput",
+		"react native floating text input",
+		"react native material text input"
+	],
 	"scripts": {
 		"start": "node node_modules/react-native/local-cli/cli.js start",
 		"test": "jest"
