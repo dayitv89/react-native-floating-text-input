@@ -1,5 +1,5 @@
 {
-	"name": "FloatingTextInput",
+	"name": "react-native-floating-text-input",
 	"version": "1.0.0",
 	"keywords": [
 		"floating text field",
@@ -8,6 +8,10 @@
 		"react native floating textInput",
 		"react native floating text input",
 		"react native material text input"
+	],
+	"main": "./src/index.js",
+	"files": [
+		"/src"
 	],
 	"scripts": {
 		"start": "node node_modules/react-native/local-cli/cli.js start",
